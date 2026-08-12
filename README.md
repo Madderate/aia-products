@@ -2,6 +2,7 @@
 
 从官网 https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi 页面获取的公开信息披露友邦产品条款 pdf 文件，按发布年份整理。
 
+```
 ├── 2009
 │   └── 友邦健康保障委托管理合同.pdf
 ├── 2013
@@ -199,6 +200,4 @@
 │   ├── 年金保险063号-友邦永裕人生优享版年金保险（分红型）.pdf
 │   ├── 年金保险50号-友邦附加星耀未来2026年金保险（分红型）.pdf
 │   └── 年金保险51号-友邦星耀未来2026年金保险（分红型）.pdf
-└── README.md
-
-12 directories, 187 files
+```
